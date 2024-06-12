@@ -1651,8 +1651,8 @@ footer{
 }
 
 @media(max-width:462px){
-	.grid-section2-container1{
-		margin-top: 20rem;
+	.grid-item2-1{
+		margin-bottom: 10rem;
 	}
 }
 
