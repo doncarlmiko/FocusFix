@@ -212,21 +212,7 @@ button:hover {
 	width:30.375rem;
 }
 
-.grid-item2-1{
-	position: relative;
-	width: 100%;
-	height: 100vh;
-	padding-bottom: 56.25%; /* 16:9 aspect ratio */
-}
 
-.grid-item2-1>iframe{
-	position: absolute;
-            top: 0;
-            left: 0;
-            width: 37.5rem;
-            height: 31.25rem;
-            border: 0;
-}
 
 
 
