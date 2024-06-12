@@ -1651,7 +1651,9 @@ footer{
 }
 
 @media(max-width:462px){
-	
+	.grid-section2-container1{
+		padding-top: 20rem;
+	}
 }
 
 
