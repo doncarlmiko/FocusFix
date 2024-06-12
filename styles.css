@@ -1651,7 +1651,7 @@ footer{
 }
 
 @media(max-width:462px){
-	.grid-item2-1{
+	.grid-item2-1>iframe{
 		margin-bottom: 10rem;
 	}
 }
