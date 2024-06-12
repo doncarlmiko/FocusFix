@@ -216,7 +216,6 @@ button:hover {
 
 
 
-
 /*--------------------------------------------------- */
 
 /*--------------------- Section 2 ------------------------------*/
@@ -1062,8 +1061,7 @@ footer{
 	}
 
 	.grid-item2-1 > iframe{
-		max-width:100%;
-		width: 100vw;
+		width:100%;
 	}
 
 	.section2-item2 >h1{
@@ -1653,8 +1651,8 @@ footer{
 }
 
 @media(max-width:462px){
-	.grid-item2-1>iframe{
-		margin-bottom: 10rem;
+	.grid-section2-container1{
+		margin-top: 10rem;
 	}
 }
 
