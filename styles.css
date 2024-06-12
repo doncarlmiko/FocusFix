@@ -1061,7 +1061,8 @@ footer{
 	}
 
 	.grid-item2-1 > iframe{
-		width:100%;
+		max-width:100%;
+		width: 100vw;
 	}
 
 	.section2-item2 >h1{
