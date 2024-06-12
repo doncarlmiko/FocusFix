@@ -1060,7 +1060,7 @@ footer{
 		margin-right: 6.375rem;
 	}
 
-	.grid-item2-1 > video{
+	.grid-item2-1 > iframe{
 		width:100%;
 	}
 
@@ -1331,7 +1331,7 @@ footer{
 			padding-right: 2vw;
 		}
 	
-		.grid-item2-1>video{
+		.grid-item2-1>iframe{
 			width: 100vw;
 		}
 
