@@ -1028,7 +1028,7 @@ footer{
 @media(max-width:2000px){
 
 
-	.grid-item2-1 > video{
+	.grid-item2-1 > iframe{
 		width: 80%;
 	}
 
