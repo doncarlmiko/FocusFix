@@ -1657,7 +1657,7 @@ footer{
 }
 
 @media(max-width:445px){
-	.CTA-container{
+	.CTA-container>h1{
 		font-size: 15px;
 	}
 }
