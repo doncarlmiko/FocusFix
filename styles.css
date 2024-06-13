@@ -607,7 +607,8 @@ button:hover {
 .section-9{
 	position: relative;
 	color: white;
-	background: linear-gradient(90deg,var(--gradient-purple2)16%,var(--gradient-purple1));	
+	background: linear-gradient(90deg,var(--gradient-purple2)16%,var(--gradient-purple1));
+	
 }
 
 .section-9-container1{
