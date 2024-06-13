@@ -1011,6 +1011,42 @@ footer{
 	}
 }
 
+@media(max-width:375px){
+	.wrapper{
+		margin-top: 6rem;
+	}
+	#icon-text{
+		font-size: 12px;
+		margin:0.8rem 0 0 0;
+		padding: 0 0 0 0.5rem;
+	}
+
+	.sidebar{
+		margin-top: 7rem;
+	}
+
+	.logo{
+		width: 15vw;
+		height: 15vw;
+	}
+	header{
+		height: 25vw;
+		padding: 1rem 1rem 1rem 1rem;
+	}
+}
+
+@media(max-width:336px){
+	#icon-text{
+		font-size: 10px;
+	}
+
+	.navbar{
+		margin-left: 0;
+		padding: 0 2rem 2rem 0;
+		width: 5vw;
+	}
+}
+
 
 /*--------------------------------------------------*/
 /*--------------------------------------------------*/
@@ -1735,7 +1771,17 @@ footer{
 }
 
 @media(max-width:408px){
-	
+	.section2{
+		margin-top: 18rem;
+	}
+
+	.grid-section2-container1{
+		margin-top: 0;
+	}
+
+	.CTA-container{
+		margin-left: 2rem;
+	}
 	.section2-item3 > p{
 		max-width: 100%;
 		width: 100vw;
@@ -1798,7 +1844,15 @@ footer{
 
 }
 
-@media(max-width:360px){
+@media(max-width:364px){
+	.section2{
+		margin-top: 20rem;
+	}
+
+	.grid-section2-container1{
+		margin-top: 0;
+	}
+
 	.grid-s5-c2-item1>h2,.grid-s5-c2-item1>p{
 		padding:0 0.5rem 0 0.5rem;
 	}
@@ -1832,5 +1886,18 @@ footer{
 
 	.CTA-container{
 		margin-left: 2rem;
+	}
+}
+
+@media(max-width:329px){
+	.section2{
+		margin-top: 20rem;
+	}
+
+	.footer-item2 >a>img{
+		width: 10vw;
+		height: 5vh;
+		max-width: 100%;
+		align-items: center;
 	}
 }
