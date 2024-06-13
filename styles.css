@@ -1325,13 +1325,19 @@ footer{
 			padding-left: 2vw;
 			padding-right: 2vw;
 		}
-	
-		.grid-item2-1>iframe{
+		
+		.grid-item2-1{
 			width:100vw;
 			height: 20vw;
 			max-width: 100%;
 			margin-left: 2rem;
 			margin-right: 2rem;
+		}
+
+		.grid-item2-1>iframe{
+			width:100vw;
+			height: 20vw;
+			max-width: 100%;
 		}
 
 		.grid-section2-container2{
