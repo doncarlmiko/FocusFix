@@ -1687,8 +1687,11 @@ footer{
 }
 
 @media(max-width:462px){
+	.section2{
+		margin-top: 16rem;
+	}
 	.grid-section2-container1{
-		margin-top: 10rem;
+		margin-top: 0;
 	}
 }
 
@@ -1699,6 +1702,10 @@ footer{
 
 	.section2{
 		margin-top: 15rem;
+	}
+
+	.grid-section2-container1{
+		margin-top: 0;
 	}
 
 	.section3,.section4{
@@ -1770,7 +1777,7 @@ footer{
 	}
 }
 
-@media(max-width:408px){
+@media(max-width:436px){
 	.section2{
 		margin-top: 18rem;
 	}
