@@ -1323,10 +1323,11 @@ footer{
 			padding-right: 2vw;
 		}
 	
-		/*.grid-item2-1>iframe{
-			width: 100vw;
+		.grid-item2-1>iframe{
+			width:20vw;
+			height: 20vw;
 			max-width: 100%;
-		}*/
+		}
 
 		.grid-section2-container2{
 			width: 98vw;
