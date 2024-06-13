@@ -1661,25 +1661,38 @@ footer{
 		padding:0 0.1rem 0 0.1rem;
 	}
 
+	.section2{
+		margin-top: 15rem;
+	}
+
+	.section3,.section4{
+		margin-top: 4rem;
+	}
+
+	.grid-section2-container1, .grid-section3-container1, .grid-section4-container1{
+		margin:0;
+	}
+
 	.img-container{
 		height: 70vh;
 	}
 
 	.black-item{
-		height: 90vh;
+		height: 100vh;
 		margin-top: -20rem;
 	}
 
 	.CTA-container{
-		margin-top: -45rem;
+		margin-top: -50rem;
 	 }
 
 	 .CTA-container>h1{
-		font-size: 18px;
+		font-size: 20px;
+		line-height: 25px;
 	}
 
 	.section-9{
-		margin-top: 10rem;
+		margin-top: 2.2rem;
 	}
 
 	.grid-s9-item1{
@@ -1706,7 +1719,7 @@ footer{
 	}
 
 	.footer-item2 >a>img{
-		width: 10vw;
+		width: 9vw;
 		height: 5vh;
 		max-width: 100%;
 		align-items: center;
@@ -1808,9 +1821,13 @@ footer{
 	}
 }
 
-@media(max-width:347px){
-	.grid-section2-container1{
+@media(max-width:348px){
+	.section2{
 		margin-top: 20rem;
+	}
+
+	.grid-section2-container1{
+		margin-top: 0;
 	}
 
 	.CTA-container{
