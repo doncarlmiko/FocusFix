@@ -1317,6 +1317,9 @@ footer{
 			width: 100vw;
 		}
 
+		.grid-items-container1{
+			margin-right: 0;
+		}
 		.grid-item1> p{
 			width: 100vw;
 			padding-left: 2vw;
