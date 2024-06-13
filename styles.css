@@ -1324,7 +1324,7 @@ footer{
 		}
 	
 		.grid-item2-1>iframe{
-			width:20vw;
+			width:100vw;
 			height: 20vw;
 			max-width: 100%;
 		}
