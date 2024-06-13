@@ -1786,7 +1786,6 @@ footer{
 
 	.grid-s9-item1> img{
 		width: 28vw;
-		height: 10vh;
 		max-width: 100%;
 	}
 
@@ -1797,7 +1796,6 @@ footer{
 
 	.footer-item2 >a>img{
 		width: 15vw;
-		height: 5vh;
 		max-width: 100%;
 		align-items: center;
 	}
