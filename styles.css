@@ -1455,6 +1455,10 @@ footer{
 	.section-6-container >img{
 		width: 100vw;
 	}
+
+	.link-white{
+		text-decoration: underline;
+	}
 }
 
 @media(max-width:600px){
