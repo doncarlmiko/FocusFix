@@ -1882,7 +1882,7 @@ footer{
 	}
 }
 
-@media(max-width:348px) and (min-width:329px){
+@media(max-width:348px) and (min-width:300px){
 	.section2{
 		margin-top: 20rem;
 	}
