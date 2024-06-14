@@ -1739,11 +1739,16 @@ footer{
 	}
 
 	.grid-s9-item1{
-		width: 98vw;
+		width: 100vw;
 		max-width: 100%;
 		text-align: center;
 		align-items: center;
 
+	}
+
+	.grid-s9-item1>h1{
+		width: 80vw;
+		max-width: 100%;
 	}
 
 	.footer-container{
