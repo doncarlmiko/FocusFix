@@ -1444,11 +1444,6 @@ footer{
 	.section2-item2>p,.section2-item3>p{
 		padding-left: 1rem;
 	}
-
-	.link-white{
-		text-decoration: underline;
-		color: white;
-	}
 }
 
 @media(max-width:781px){
