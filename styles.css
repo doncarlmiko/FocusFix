@@ -1793,6 +1793,7 @@ footer{
 		max-width: 100%;
 		justify-content: center;
 		padding-bottom: 2rem;
+		padding-left: 0;
 		
 	}
 }
