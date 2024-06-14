@@ -710,6 +710,7 @@ footer{
 /*------------------------Fonts and styles-----------------------------------*/
 .link-white{
 	color: white;
+	list-style-type: none;
 }
 .section-margin{
 	margin-left:  6.375rem;
