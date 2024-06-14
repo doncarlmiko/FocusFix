@@ -1765,6 +1765,7 @@ footer{
 	.footer-item1{
 		display: block;
 		text-align: center;
+		padding: 0;
 	}
 
 	.footer-item2 >a>img{
