@@ -1686,16 +1686,16 @@ footer{
 	
 }
 
-@media(max-width:462px){
+/*@media(max-width:462px){
 	.section2{
 		margin-top: 16rem;
 	}
 	.grid-section2-container1{
 		margin-top: 0;
 	}
-}
+}*/
 
-@media(max-width:444px){
+@media(max-width:462px){
 	.grid-item1>h1{
 		padding:0 0.1rem 0 0.1rem;
 	}
