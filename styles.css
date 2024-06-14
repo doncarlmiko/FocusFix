@@ -712,6 +712,10 @@ footer{
 	color: white;
 	text-decoration: none;
 }
+.link-white:hover{
+	text-decoration: underline;
+}
+
 .section-margin{
 	margin-left:  6.375rem;
 	margin-right: 6.375rem;
