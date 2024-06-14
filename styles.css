@@ -1444,6 +1444,10 @@ footer{
 	.section2-item2>p,.section2-item3>p{
 		padding-left: 1rem;
 	}
+	
+	.link-white:hover{
+		text-decoration: underline;
+	}
 }
 
 @media(max-width:781px){
