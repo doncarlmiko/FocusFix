@@ -1444,6 +1444,9 @@ footer{
 	.section2-item2>p,.section2-item3>p{
 		padding-left: 1rem;
 	}
+	.link-white{
+		text-decoration: underline;
+	}
 }
 
 @media(max-width:781px){
@@ -1454,10 +1457,6 @@ footer{
 
 	.section-6-container >img{
 		width: 100vw;
-	}
-
-	.link-white{
-		text-decoration: underline;
 	}
 }
 
