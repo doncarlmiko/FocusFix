@@ -1882,7 +1882,7 @@ footer{
 	}
 }
 
-@media(max-width:348px){
+@media(max-width:348px) and (min-width:329px){
 	.section2{
 		margin-top: 20rem;
 	}
@@ -1893,12 +1893,6 @@ footer{
 
 	.CTA-container{
 		margin-left: 2rem;
-	}
-}
-
-@media(max-width:329px){
-	.section2{
-		margin-top: 20rem;
 	}
 
 	.footer-item2 >a>img{
