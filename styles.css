@@ -837,9 +837,9 @@ footer{
 }
 
 @media(max-width:1370px){
-	/*header,#icon-text,.nav-item{
+	header,#icon-text,.nav-item{
 		font-size: clamp(0.7rem, 1vw, 0.8rem);
-	}*/
+	}
 
 	#icon-text{
 		width: 18%;
@@ -878,9 +878,9 @@ footer{
 }
 
 @media(max-width:1033px){
-	/*header,#icon-text,.nav-item{
+	header,#icon-text,.nav-item{
 		font-size: clamp(0.7rem, 1vw, 0.8rem);
-	}*/
+	}
 
 	#icon-text{
 		padding-top: 0.5rem;
