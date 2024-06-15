@@ -1013,7 +1013,7 @@ footer{
 
 
 
-@media(max-width:446px) and (min-width:375px){
+@media(max-width:446px) and (min-width:336px){
 	.wrapper{
 		margin-top: 6rem;
 	}
@@ -1028,16 +1028,16 @@ footer{
 	}
 
 	.logo{
-		width: 15vw;
-		height: 15vw;
+		width: 12vw;
+		height: 12vw;
 	}
 	header{
-		height: 25vw;
+		height: 20vw;
 		padding: 1rem 1rem 1rem 1rem;
 	}
 }
 
-@media(max-width:336px){
+/*@media(max-width:336px){
 	#icon-text{
 		font-size: 10px;
 	}
@@ -1047,7 +1047,7 @@ footer{
 		padding: 0 2rem 2rem 0;
 		width: 5vw;
 	}
-}
+}*/
 
 
 /*--------------------------------------------------*/
