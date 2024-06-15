@@ -1706,7 +1706,7 @@ footer{
 	}
 }*/
 
-@media(max-width:462px){
+@media(max-width:478px){
 	.grid-item1>h1{
 		padding:0 0.1rem 0 0.1rem;
 	}
