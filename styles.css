@@ -1012,7 +1012,8 @@ footer{
 }
 
 
-@media(max-width:446px) and(min-width:375px){
+
+@media(max-width:446px) and (min-width:375px){
 	.wrapper{
 		margin-top: 6rem;
 	}
