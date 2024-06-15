@@ -857,9 +857,9 @@ footer{
 }
 
 @media(max-width:1231px){
-	/*header,#icon-text,.nav-item{
+	header,#icon-text,.nav-item{
 		font-size: clamp(0.7rem, 1vw, 0.8rem);
-	}*/
+	}
 
 	#icon-text{
 		width: 20%;
