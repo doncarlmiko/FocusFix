@@ -1725,7 +1725,8 @@ footer{
 	 }
 
 	 .grid-s9-item1>img{
-		align-items:flex-start;
+		align-items: center;
+		justify-content: center;
 	 }
 
 	 .grid-s9-c2-item1{
