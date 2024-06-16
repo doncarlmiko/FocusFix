@@ -1752,12 +1752,10 @@ footer{
 		max-width: 100%;
 		text-align: left;
 		align-items: left;
-
 	}
 
 	.grid-s9-item1>h1{
-		width: 80vw;
-		max-width: 100%;
+		display: none;
 	}
 
 	.footer-container{
