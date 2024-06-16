@@ -878,10 +878,10 @@ footer{
 	}
 }
 
-@media(max-width:1033px){
-	/*header,#icon-text,.nav-item{
+/*@media(max-width:1033px){
+	header,#icon-text,.nav-item{
 		font-size: clamp(0.7rem, 1vw, 0.8rem);
-	}*/
+	}
 
 	#icon-text{
 		padding-top: 0.5rem;
@@ -897,7 +897,7 @@ footer{
 		top: 0;
 		width: 100%;
 	}
-}
+}*/
 
 @media(max-width:800px){
 	header,#icon-text,.nav-item{
