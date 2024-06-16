@@ -1739,6 +1739,11 @@ footer{
 		max-width: 100%;
 	 }
 
+	 .grid-s9-c2-item1, .grid-s9-c2-item2{
+		max-width: 100%;
+		width: 50vw;
+	 }
+
 	 .grid-s9-c2-item3 > h2{
 		display: none;
 	 }
