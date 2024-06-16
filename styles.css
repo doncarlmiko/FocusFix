@@ -1720,7 +1720,7 @@ footer{
 		margin-left: 0;
 		margin-right: 0;
 	 }
-	 .grid-s9-item1{
+	 .grid-s9-item1>h1{
 		display: none;
 	 }
 
