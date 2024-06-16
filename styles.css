@@ -1665,14 +1665,12 @@ footer{
 
 	 .section-9-container2{
 		padding-left: 1rem;
-		padding-right: 1rem;
 		margin-left: 0;
 		margin-right: 0;
 	 }
 
 	 .grid-s9-c2-item1{
 		max-width: 100%;
-		padding-left: 5rem;
 	 }
 
 	 .grid-s9-c2-item2{
@@ -1686,7 +1684,7 @@ footer{
 
 	 .grid-s9-c2-item3{
 		grid-column: 1/-1;
-		flex-direction: row;
+		flex-direction: column;
 		justify-content: flex-start;
 		gap: 5rem;
 	 }
