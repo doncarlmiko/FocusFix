@@ -901,7 +901,7 @@ footer{
 
 @media(max-width:968px){
 	#icon-text{
-		padding-top: 1rem;
+		padding-top: 0.5rem;
 
 	}
 }
