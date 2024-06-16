@@ -1686,7 +1686,7 @@ footer{
 		grid-column: 1/-1;
 		flex-direction: column;
 		justify-content: flex-start;
-		gap: 5rem;
+		gap: 1rem;
 	 }
 	 .last-CTA2{
 		display: block;
