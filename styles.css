@@ -1782,6 +1782,10 @@ footer{
 		justify-content: left;
 		padding:0 0 2rem 3rem;
 	}
+
+	.email-contact >img,.phone-contact > img{
+		width: 6vw;
+	}
 }
 
 @media(max-width:375px){
