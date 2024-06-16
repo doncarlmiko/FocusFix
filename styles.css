@@ -1672,12 +1672,11 @@ footer{
 
 	 .grid-s9-c2-item1{
 		max-width: 100%;
-		width: 50vw;
 		padding-left: 5rem;
 	 }
 
 	 .grid-s9-c2-item2{
-		grid-column: 3/-1;
+		grid-column: 1/-1;
 		max-width: 100%;
 		width: 50vw;
 	 }
