@@ -1694,7 +1694,7 @@ footer{
 
 	.black-item{
 		height: 100vh;
-		margin-top: -22rem;
+		margin-top: -19rem;
 	}
 
 	.CTA-container{
@@ -1823,6 +1823,10 @@ footer{
 		width: 11vw;
 		max-width: 100%;
 		align-items: left;
+	}
+
+	.sidebar{
+
 	}
 }
 
