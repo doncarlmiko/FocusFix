@@ -1835,7 +1835,7 @@ footer{
 
 }
 
-@media(max-width:365px) and (min-width:300px){
+@media(max-width:375px) and (min-width:300px){
 	.section2{
 		margin-top: 22rem;
 	}
