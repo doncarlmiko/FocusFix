@@ -1411,16 +1411,16 @@ footer{
 	}
 
 	.img-container,.black-item {
-		height: 100vw;
+		/*height: 100vw;*/
 		width: 100vw;
 	}
 
 	.img-container{
-		height: 70vh;
+		/*height: 70vh;*/
 	}
 
 	.black-item{
-		height: 100vh;
+		/*height: 100vh;*/
 		margin-top: -30rem;
 	}
 
