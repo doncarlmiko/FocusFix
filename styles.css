@@ -1837,6 +1837,11 @@ footer{
 		margin-top: 0;
 	}
 
+	.grid-s5-c2-item1 >p{
+		max-width: 100%;
+		width: 100vw;
+	}
+
 	.CTA-container{
 		margin-left: 2rem;
 	}
