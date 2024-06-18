@@ -1057,6 +1057,13 @@ footer{
 	}
 }*/
 
+@media(418px){
+	.sidebar{
+		margin-top: 5rem;
+	}
+
+}
+
 @media(max-width:350px){
 	#icon-text{
 		padding-top: 0.9rem;
@@ -1658,6 +1665,7 @@ footer{
 }*/
 
 @media(max-width:478px){
+
 	.grid-item1>h1{
 		padding:0 0.1rem 0 0.1rem;
 	}
