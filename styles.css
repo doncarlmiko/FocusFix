@@ -1802,6 +1802,13 @@ footer{
 		margin-top: 0;
 	}
 
+	.grid-s5-c2-item1 >p{
+		max-width: 100%;
+		width: 100vw;
+		margin-left: 0;
+		margin-right: 0;
+	}
+
 	.grid-s5-c2-item1>h2,.grid-s5-c2-item1>p{
 		padding:0 0.5rem 0 0.5rem;
 	}
@@ -1835,13 +1842,6 @@ footer{
 
 	.grid-section2-container1{
 		margin-top: 0;
-	}
-
-	.grid-s5-c2-item1 >p{
-		max-width: 100%;
-		width: 100vw;
-		margin-left: 0;
-		margin-right: 0;
 	}
 
 	.CTA-container{
