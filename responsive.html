@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fluid Flexbox Grid Example</title>
+  <style>
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .column {
+      flex: 1; /* Allows columns to grow and shrink */
+      padding: 1%;
+      min-width: 200px; /* Prevent columns from becoming too narrow */
+      box-sizing: border-box; /* Ensure padding is included in the width */
+    }
+
+    /* For a 3-column layout, use flex-basis */
+    .col-4 {
+      flex-basis: 33.33%;
+    }
+
+    @media (max-width: 768px) {
+      .column {
+        flex-basis: 100%; /* Stacks columns on small screens */
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="column col-4" style="background-color: lightcoral;">Column 1</div>
+    <div class="column col-4" style="background-color: lightseagreen;">Column 2</div>
+    <div class="column col-4" style="background-color: lightblue;">Column 3</div>
+  </div>
+</body>
+</html>
+
