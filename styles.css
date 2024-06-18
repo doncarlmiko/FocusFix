@@ -1057,7 +1057,7 @@ footer{
 	}
 }*/
 
-@media(418px){
+@media(max-width:418px){
 	.sidebar{
 		margin-top: 5rem;
 	}
