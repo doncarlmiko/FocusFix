@@ -1840,7 +1840,8 @@ footer{
 	.grid-s5-c2-item1 >p{
 		max-width: 100%;
 		width: 100vw;
-		margin: 0;
+		margin-left: 0;
+		margin-right: 0;
 	}
 
 	.CTA-container{
