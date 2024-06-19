@@ -1,3 +1,59 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+
+}
+
+body, html {
+	width: 100%;
+	overflow-x: hidden; /* Prevent horizontal overflow */
+  }
+
+body::-webkit-scrollbar{
+	width: 0.5rem;
+}
+
+body::-webkit-scrollbar-track{
+	background: var(--darkpurple);
+}
+
+body::-webkit-scrollbar-thumb{
+	background: var(--gradient-purple1);
+}
+
+main{
+	margin:0;
+	padding: 0;
+
+}
+
+
+:root {
+  --footer-font-size:15px;
+  --paragraph-font-size1: 16px;
+  --paragraph-font-size2:17px;
+  --paragraph-font-size3:18px;
+  --sub-heading-font-size:20px;
+  --sub-heading-font-size2:25px;
+  --main-heading-font-size:55px;
+  --second-heading-font-size:40px;
+  --Lexend-font:"Lexend", sans-serif;
+  --button-color:#D05959;
+  --gradient-purple1: #5F27B7;
+  --gradient-purple2:#2A1151;
+  --darkpurple:#423757;
+  --bg-main:#FFFAE2;
+
+
+}
+
+
+
+
 @media(max-width:800px){
 	.hideOnMobile{
 		display: none;
