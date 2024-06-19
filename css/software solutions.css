@@ -10,7 +10,7 @@ body{
 
 body, html {
 	width: 100%;
-	overflow-x: hidden; /* Prevent horizontal overflow */
+	/*overflow-x: hidden;  Prevent horizontal overflow */
   }
 
 body::-webkit-scrollbar{
