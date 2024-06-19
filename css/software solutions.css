@@ -89,7 +89,7 @@ main{
 	margin-top: -1rem;
 }
 
-.hero-heading{
+.main-heading{
   font-size: var(--main-heading-font-size);
   line-height: auto;
   margin-bottom: 2rem;
