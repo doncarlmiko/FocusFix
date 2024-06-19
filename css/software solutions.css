@@ -57,6 +57,7 @@ main{
 .container {
 	display: flex;
 	flex-wrap: wrap;
+	flex-direction: column;
 	margin-top:20rem;
   }
 
