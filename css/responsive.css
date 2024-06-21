@@ -30,7 +30,7 @@
 	  flex-basis: 100%; /*Stacks columns on small screens */
 	}
 
-	.section-2{
+	body{
 		font-size: clamp(1.25rem, 1vw + 1.25rem, 1.5rem);
 	  }
 	
