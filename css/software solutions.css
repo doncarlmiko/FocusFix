@@ -86,8 +86,8 @@ main{
 	.column {
 	  flex-basis: 100%; /* Stacks columns on small screens */
 	}
-	
-	body {
+
+	.section-2{
 		font-size: clamp(1.25rem, 1vw + 1.25rem, 1.5rem);
 	  }
 	
@@ -106,7 +106,7 @@ main{
   }
 
   @media (min-width: 481px) {
-	body {
+	.section-2{
 	  font-size: clamp(1.125rem, 1vw + 1.125rem, 1.375rem);
 	}
   
