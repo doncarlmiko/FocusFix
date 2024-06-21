@@ -95,7 +95,7 @@ button:hover {
     }
 
 .section-9{
-	position: relative;
+	/*position: relative;*/
 	color: white;
 	background: linear-gradient(90deg,var(--gradient-purple2)16%,var(--gradient-purple1));
 	
@@ -162,8 +162,8 @@ footer{
 	display: flex;
 	align-items: flex-start;
 	gap: 2rem;
-	position:relative;
-	z-index: 1;
+	/*position:relative;
+	z-index: 1;*/
 }
 
 .footer-item1 > p > a{
@@ -174,8 +174,8 @@ footer{
 	align-items: flex-start;
 	gap: 1rem;
 	margin-right: 2rem;
-	position:relative;
-	z-index: 1;
+	/*position:relative;
+	z-index: 1;*/
 }
 
 .footer-item2 > a >img{
