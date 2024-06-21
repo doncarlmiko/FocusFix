@@ -27,7 +27,7 @@
 
   @media (max-width: 768px) {
 	.column {
-	  flex-basis: 100%; Stacks columns on small screens 
+	  flex-basis: 100%; /*Stacks columns on small screens */
 	}
 
 	.section-2{
