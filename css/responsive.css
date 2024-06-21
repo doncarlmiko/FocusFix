@@ -1,9 +1,9 @@
-.container {
+/*.container {
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: column;
 	margin-top:20rem;
-  }
+  }*/
 
   .column {
 	flex: 1; /* Allows columns to grow and shrink */
