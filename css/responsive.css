@@ -25,10 +25,10 @@
     .col-11 { width: 91.66%; }
     .col-12 { width: 100%; }
 
-  @media (max-width: 768px) {
+  /*@media (max-width: 768px) {
 	.column {
-	  flex-basis: 100%; /* Stacks columns on small screens */
-	}
+	  flex-basis: 100%; /* Stacks columns on small screens 
+	}*/
 
 	.section-2{
 		font-size: clamp(1.25rem, 1vw + 1.25rem, 1.5rem);
