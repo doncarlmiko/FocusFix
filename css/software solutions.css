@@ -86,6 +86,9 @@ main{
 	.column {
 	  flex-basis: 100%; /* Stacks columns on small screens */
 	}
+	body{
+		font-size: 16px;
+	}
   }
 
 
