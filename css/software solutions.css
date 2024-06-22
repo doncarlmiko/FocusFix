@@ -114,6 +114,11 @@ button:hover {
       background-color:var(--gradient-purple1);
     }
 
+	.grid-container{
+		display: grid;
+		grid-template-columns: auto, 1fr;
+	}
+
 	iframe{
 		max-width: 100%;
 		width: 100vw;
