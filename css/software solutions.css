@@ -117,6 +117,7 @@ button:hover {
 	.grid-container{
 		display: grid;
 		grid-template-columns: auto, 1fr;
+		max-width: 100%;
 	}
 
 	.grid-container > iframe{
