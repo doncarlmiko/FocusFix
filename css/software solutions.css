@@ -72,7 +72,6 @@ main{
 	:root {
 	  --fs-600: 3rem;
 	  --fs-400: 1.125rem;
-	  --main-heading-font-size: clamp(3.4375rem, 12vw + 1rem, 12rem);
 	}
   }
 
