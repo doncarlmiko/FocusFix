@@ -121,8 +121,8 @@ button:hover {
 
 	.grid-container > iframe{
 		max-width: 100%;
-		width: 31.25rem;
-		height: fit-content;
+		width: 35rem;
+		height: 100vh;
 	}
 
 
