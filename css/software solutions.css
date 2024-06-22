@@ -44,7 +44,7 @@ main{
   --sub-heading-font-size:1.25rem; /*20px*/
   --sub-heading-font-size2:1.5625rem; /*25px*/
 
-  --main-heading-font-size: clamp(1.875rem, 12vw + 1rem, 3.4375rem); /*55px*/
+  --main-heading-font-size: clamp(3.4375rem, 12vw + 1rem, 12rem); /*55px*/
   --second-heading-font-size:2.5rem; /*40px*/
   --third-heading-font-size:1.875rem; /*30px*/
   
