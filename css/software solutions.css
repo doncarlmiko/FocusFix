@@ -48,7 +48,7 @@ main{
   --second-heading-font-size:2.5rem; /*40px*/
   --third-heading-font-size:1.875rem; /*30px*/
   
-  --fs-xl: clamp(3.5rem, 12vw + 1rem, 12rem);
+  /*--fs-xl: clamp(3.5rem, 12vw + 1rem, 12rem);*/
   --fs-600: 2rem;
   --fs-400: 1rem;
 
