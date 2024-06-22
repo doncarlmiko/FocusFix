@@ -64,7 +64,7 @@ main{
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: column;
-	margin-top:6rem;
+	margin-top:4.5rem;
 
 }
 
@@ -121,7 +121,8 @@ button:hover {
 
 	.grid-container > iframe{
 		max-width: 100%;
-		width: 25rem;
+		width: 31.25rem;
+		height: fit-content;
 	}
 
 
