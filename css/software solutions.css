@@ -106,9 +106,9 @@ button:hover {
     }
 
 	iframe{
-		display: block;
-		width: 100%;
-		aspect-ratio: 16/9;
+		max-width: 100%;
+		width: 100vw;
+		height: 50vh;
 	}
 
 
