@@ -377,17 +377,6 @@ footer{
 		.grid-s4-img>img{
 			width: 100vw;
 		}
-
-		.CTA-container{
-			width: 70vw;
-			height: 15vw;
-			
-		}
-	
-		.CTA-container>h1{
-			line-height: 50px;
-			font-size: 2rem;
-		}
 	
 		.grid-s4-img >img{
 			height: 70vw;
