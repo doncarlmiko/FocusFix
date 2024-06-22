@@ -118,12 +118,11 @@ button:hover {
 		display: grid;
 		grid-template-columns: auto, 1fr;
 		max-width: 100%;
+		width: 100vw;
 	}
 
 	.grid-container > iframe{
-		max-width: 100%;
-		width: 120vw;
-		height: 20vh;
+		width: 37.5rem;
 	}
 
 
