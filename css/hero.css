@@ -33,23 +33,26 @@ main{
 
 
 :root {
-  --footer-font-size:15px;
-  --paragraph-font-size1: 16px;
-  --paragraph-font-size2:17px;
-  --paragraph-font-size3:18px;
-  --sub-heading-font-size:20px;
-  --sub-heading-font-size2:25px;
-  --main-heading-font-size:55px;
-  --second-heading-font-size:40px;
-  --Lexend-font:"Lexend", sans-serif;
-  --button-color:#D05959;
-  --gradient-purple1: #5F27B7;
-  --gradient-purple2:#2A1151;
-  --darkpurple:#423757;
-  --bg-main:#FFFAE2;
-
-
-}
+	--footer-font-size:0.9375rem; /*15px*/
+	--paragraph-font-size1: 1rem; /*16px*/
+	--paragraph-font-size2: 1.0625rem;	/*17px*/
+	--paragraph-font-size3: 1.125rem; /*18px*/
+   
+  
+	--sub-heading-font-size:1.25rem; /*20px*/
+	--sub-heading-font-size2:1.5625rem; /*25px*/
+  
+	--main-heading-font-size:3.4375rem; /*55px*/
+	--second-heading-font-size:2.5rem; /*40px*/
+	--third-heading-font-size:1.875rem; /*30px*/
+  
+	--Lexend-font:"Lexend", sans-serif;
+	--button-color:#D05959;
+	--gradient-purple1: #5F27B7;
+	--gradient-purple2:#2A1151;
+	--darkpurple:#423757;
+	--bg-main:#FFFAE2;
+  }
 
 .wrapper{
 	display: grid;
