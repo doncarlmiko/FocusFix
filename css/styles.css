@@ -98,6 +98,13 @@ button:hover {
   line-height: 26px;
 }
 
+.lexend-regular{
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style:normal;
+    line-height: 26px;
+  }
 
 .varela-round-regular {
   font-family: "Varela Round", sans-serif;
