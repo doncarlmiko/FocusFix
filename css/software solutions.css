@@ -118,6 +118,12 @@ main{
 	height: 24.25rem;
 }
 
+.section-3-grid{
+	display: grid;
+	grid-template-rows:auto auto, 1fr;
+	gap: 2rem;
+}
+
 
 
 
