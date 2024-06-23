@@ -41,6 +41,11 @@ button:hover {
 	padding-right: 6.375rem;
 }
 
+.section-margin{
+	padding-left:  6.375rem;
+	padding-right: 6.375rem;
+}
+
 .aspect-ratio{
 	aspect-ratio: 16/9;
 }
