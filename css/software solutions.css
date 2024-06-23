@@ -121,7 +121,7 @@ main{
 .section-3-grid{
 	display: grid;
 	grid-template-columns:auto auto, 1fr;
-	gap: 2rem;
+	gap: 4rem;
 }
 
 
