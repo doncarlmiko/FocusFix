@@ -103,7 +103,7 @@ button:hover {
     font-optical-sizing: auto;
     font-weight: 600;
     font-style:normal;
-    line-height: 26px;
+    line-height: auto;
   }
 
 .varela-round-regular {
