@@ -92,11 +92,12 @@ main{
 .grid-container{
 		display: grid;
 		grid-template-columns: auto, 1fr;
-		width: 100%;
+		max-width: 100%;
 	}
 
 	.grid-container > iframe{
-		width: 100%;
+		max-width: 100%;
+		width: 100vw;
 		height: 60vh;
 	}
 
