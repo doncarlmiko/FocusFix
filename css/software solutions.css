@@ -76,6 +76,10 @@ main{
 	}
   }
 
+.section-gap{
+	gap: 4rem;
+}
+
 /*----------------------------------------------------------*/
 /*------------------------Section 1----------------------------------*/
 .main-heading{
@@ -121,7 +125,6 @@ main{
 .section-3-grid{
 	display: grid;
 	grid-template-columns:repeat(2,1fr);
-	gap: 4rem;
 }
 
 
