@@ -108,11 +108,12 @@ main{
 .section-2 >h1{
 	text-align: center;
 }
-span > a{
+
+a{
 	text-decoration: none;
 }
 
-span > a:hover{
+a:hover{
 	text-decoration: underline;
 }
 
