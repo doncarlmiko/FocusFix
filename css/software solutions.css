@@ -90,6 +90,7 @@ main{
   margin-bottom: 5rem;
   text-shadow:0 3px 4px rgba(0, 0, 0, 0.2) ;
 }
+
 .grid-container{
 		display: grid;
 		grid-template-columns: auto, 1fr;

@@ -54,7 +54,7 @@ button:hover {
 	font-size: var( --paragraph-font-size1);
 }
 
-.heading,.nav-item,.sidebar-item,.main-heading{
+.gradient-text{
 	background: linear-gradient(360deg,var(--gradient-purple2),var(--gradient-purple1) 16%);
 	-webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
