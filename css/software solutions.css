@@ -81,11 +81,12 @@ main{
 }
 
 .img-container{
-	padding-left: 5rem;
+	gap: 4rem;
+	width: 80%;
 }
 
 .img-grid{
-	width: 34rem;
+	width: 30.4375rem;
 	height: 24.25rem;
 }
 
