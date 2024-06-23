@@ -82,6 +82,7 @@ main{
 
 .img-container{
 	padding-left:6.5rem;
+	width: 60%;
 }
 
 .img-grid{
@@ -134,7 +135,6 @@ main{
 	display: grid;
 	grid-template-columns:repeat(2,1fr);
 }
-
 
 
 
