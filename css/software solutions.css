@@ -80,11 +80,16 @@ main{
 	padding: 6rem 0 8rem 0;
 }
 
-.grid-image{
+.img-container{
 	padding-left: 6.5rem;
+	width: 34rem;
+	height: 24.25rem;
 }
 
-
+.img-grid{
+	width: 34rem;
+	height: 24.25rem;
+}
 
 /*----------------------------------------------------------*/
 /*------------------------Section 1----------------------------------*/
@@ -123,11 +128,6 @@ main{
 
 /*-----------------------------------------------------------------------*/
 /*----------------------------Section 3-------------------------------------*/
-.s3-item2 > img {
-	width: 34rem;
-	height: 24.25rem;
-}
-
 .section-3-grid{
 	display: grid;
 	grid-template-columns:repeat(2,1fr);
