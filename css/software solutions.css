@@ -109,11 +109,11 @@ main{
 	text-align: center;
 }
 
-a{
+a >span{
 	text-decoration: none;
 }
 
-a:hover{
+a > span:hover{
 	text-decoration: underline;
 }
 
