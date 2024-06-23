@@ -120,7 +120,7 @@ main{
 
 .section-3-grid{
 	display: grid;
-	grid-template-rows:auto auto, 1fr;
+	grid-template-columns:auto auto, 1fr;
 	gap: 2rem;
 }
 
