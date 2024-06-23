@@ -78,15 +78,11 @@ main{
 
 .grid-padding{
 	padding: 6rem 0 8rem 0;
-	gap: 4rem;
-}
-
-.img-container{
-	width: 60%;
+	gap: 6rem;
 }
 
 .img-grid{
-	width: 30.4375rem;
+	width: 34rem;
 	height: 24.25rem;
 }
 
