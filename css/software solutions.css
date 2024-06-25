@@ -144,7 +144,8 @@ main{
 .section-3-grid,
 .section-4-grid,
 .section-5-grid,
-.section-6-grid{
+.section-6-grid,
+.section-7-grid{
 	display: grid;
 	grid-template-columns:repeat(2,1fr);
 }
