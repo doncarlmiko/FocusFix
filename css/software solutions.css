@@ -163,7 +163,11 @@ main{
 	grid-template-rows:auto auto, 1fr;
 }
 
-
+.s8-item2{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
 
 
 /*-----------------------------------------------------------------------*/
