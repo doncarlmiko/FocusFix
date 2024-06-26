@@ -187,6 +187,11 @@ main{
 	padding:6rem 0 0 0; 
 }
 
+.conclusion-button{
+	width: 16.4375rem;
+	height: 3.8125rem;
+}
+
 .conclusion-img{
 	width: 38.625rem;
 	height: 28.125rem;
