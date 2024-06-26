@@ -156,6 +156,8 @@ main{
 /*----------------------------Section 8-------------------------------------*/
 .section-8{
 	text-align: center;
+	padding-top: 6rem;
+	padding-bottom: 6rem;
 }
 
 .section-8-grid{
@@ -167,10 +169,6 @@ main{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-}
-
-figure{
-	margin-top:0;
 }
 
 .folder-icon{
