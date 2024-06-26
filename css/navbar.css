@@ -1,4 +1,4 @@
-/*:root {
+:root {
   --footer-font-size:15px;
   --paragraph-font-size1: 16px;
   --paragraph-font-size2:17px;
@@ -59,7 +59,7 @@ header{
 
 /*--------------------------Nav section---------------------------------*/
 
-nav{
+.navbar{
 	/* height: 3.125rem;*/
 	 margin-left: auto;
 	   
@@ -89,7 +89,7 @@ nav{
    
    }
    
-   nav:hover{
+   .navbar:hover{
 	   display: block;
    }
    
