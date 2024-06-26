@@ -77,6 +77,11 @@ header{
 	 /*padding-top: 1.3rem;*/
    
    }
+
+   .navbar-link:hover{
+		text-decoration: underline;
+		color:var(--gradient-purple2);
+   }
    
    .nav-item{
 	   font-size:var(--paragraph-font-size2);
