@@ -59,7 +59,7 @@ header{
 
 /*--------------------------Nav section---------------------------------*/
 
-.navbar{
+nav{
 	/* height: 3.125rem;*/
 	 margin-left: auto;
 	   
@@ -89,7 +89,7 @@ header{
    
    }
    
-   .navbar:hover{
+   nav:hover{
 	   display: block;
    }
    
