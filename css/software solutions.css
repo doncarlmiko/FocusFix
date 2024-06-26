@@ -188,15 +188,33 @@ main{
 	padding:4rem 0 0 0; 
 }
 
-.conclusion-button{
-	width: 16.4375rem;
-	height: 3.8125rem;
-}
-
 .conclusion-img{
 	width: 38.625rem;
 	height: 28.125rem;
 }
+
+.conclusion-button{
+	width: 16.4375rem;
+	height: 3.8125rem;
+	background-color: var(--button-color);
+	margin-top: 1.5rem;
+	border-style: none;
+	border-radius: 2px;
+	box-shadow:0 4px 4px 0 lightgray;
+	color: white;
+	visibility: visible;
+	cursor: pointer;
+	pointer-events: auto;
+	opacity: 1;
+}
+
+button:hover {
+      background-color: var(--gradient-purple1);
+    }
+
+    button:active {
+      background-color:var(--gradient-purple1);
+    }
 
 
 /*-----------------------------------------------------------------------*/
