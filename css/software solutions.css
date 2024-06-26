@@ -65,7 +65,7 @@ main{
 	flex-wrap: wrap;
 	flex-direction: column;
 	margin-top:7.9rem;
-	width: 100%;
+	max-width: 100%;
 
 }
 
