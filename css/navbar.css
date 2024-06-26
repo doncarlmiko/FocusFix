@@ -78,7 +78,7 @@ header{
    
    }
 
-   .navbar-link:hover{
+   .navbar-nav >.nav-item > .navbar-link:hover{
 		text-decoration: underline;
 		color:var(--gradient-purple2);
    }
