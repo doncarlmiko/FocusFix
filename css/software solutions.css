@@ -84,11 +84,11 @@ main{
 }
 
 .img-container1{
-	padding-left:min(20vw,6.5rem);
+	padding-inline-start:min(20vw,6.5rem);
 }
 
 .img-container2{
-	padding-right:min(20vw,6.5rem);
+	padding-inline-end:min(20vw,6.5rem);
 }
 
 .img-grid{
@@ -185,7 +185,7 @@ main{
 }
 
 .s-conclusion-item2{
-	padding:4rem 0 0 0; 
+	padding-block-start:min(20vh,4rem);
 }
 
 .conclusion-img{
