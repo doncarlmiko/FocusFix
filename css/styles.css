@@ -57,7 +57,7 @@ button:hover {
 .section-margin{
 	/*padding-left:  6.375rem;
 	padding-right: 6.375rem;*/
-	padding-inline: min(20vh,6.375rem);
+	padding-inline: min(5vh,6.375rem);
 }
 
 .aspect-ratio{
