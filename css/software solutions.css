@@ -85,6 +85,12 @@ main{
 	.img-container2{
 		padding-inline-end:min(10vh,6.5rem);
 	}
+
+	.section-padding{
+		/*padding-left:  6.375rem;
+		padding-right: 6.375rem;*/
+		padding-inline: min(10vh,6.375rem);
+	}
   }
 
 
