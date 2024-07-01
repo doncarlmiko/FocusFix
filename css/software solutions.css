@@ -84,11 +84,11 @@ main{
 }
 
 .img-container1{
-	padding-inline-start:min(20vw,6.5rem);
+	padding-inline-start:min(100vw,6.5rem);
 }
 
 .img-container2{
-	padding-inline-end:min(20vw,6.5rem);
+	padding-inline-end:min(100vw,6.5rem);
 }
 
 .img-grid{
