@@ -79,11 +79,11 @@ main{
 /*------------------------Responsive media query----------------------------------*/
 @media (min-width: 90em) {
 	.img-container1{
-		padding-inline-start:min(10vh,6.5rem);
+		padding-inline-start:max(20vh,6.5rem);
 	}
 	
 	.img-container2{
-		padding-inline-end:min(10vh,6.5rem);
+		padding-inline-end:max(20vh,6.5rem);
 	}
 
 	.section-padding{
