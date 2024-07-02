@@ -590,11 +590,11 @@ footer{
 
   @media (max-width: 80em) {
 	.img-container1{ 
-		padding-inline-start:min(20vh,6.5rem);
+		padding-inline-start:min(5vh,6.5rem);
 	}
 	
 	.img-container2{
-		padding-inline-end:min(20vh,6.5rem);
+		padding-inline-end:min(5vh,6.5rem);
 	}
 
 	.section-padding{
