@@ -637,11 +637,20 @@ footer{
 
 	.section-c-grid
 	{
-		display: grid;
-		grid-template-rows: auto auto, 1fr;
+		grid-template-areas:
+		"section-c-item1"
+		"section-c-item2";
 		align-items: center;
+		text-align: center;
 		
 	}
+
+	.section-c-item1,.section-c-item2{
+		grid-column: 1/-1;
+	}
+ 
+	.section-c-item1 { grid-area: section-c-item1; }
+    .section-c-item2 { grid-area: section-c-item2; }
 
   }
 
