@@ -628,16 +628,29 @@ footer{
 	}
   }
 
-  @media(max-width:806px) {
-	.section-3-grid{
+  @media(max-width:1024px) {
+	.section-3-grid,
+	.section-4-grid
+	/*.section-5-grid,
+	.section-6-grid,
+	.section-7-grid*/
+	{
 		grid-template-areas:
 		"s3-item1"
-		"s3-item2";
+		"s3-item2"
+		"s4-item1"
+		"s4-item2";
 	}
 
 	.s3-item1 { grid-area: s3-item1; }
     .s3-item2 { grid-area: s3-item2; }
+	.s4-item1 { grid-area: s3-item1; }
+    .s4-item2 { grid-area: s3-item2; }
   }
+
+
+
+
 
   @media (min-width: 40em) {
 	:root {
