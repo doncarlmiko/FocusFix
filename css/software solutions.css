@@ -180,11 +180,11 @@ main{
 
 /*----------------------------Section conclusion-------------------------------------*/
 
-.s-conclusion-item1{
+.section-c-item1{
 	padding:0 2rem 0 0; 
 }
 
-.s-conclusion-item2{
+.section-c-item2{
 	padding-block-start:min(20vh,4rem);
 }
 
