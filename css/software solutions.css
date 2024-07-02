@@ -610,6 +610,22 @@ footer{
 	}
   }
 
+  @media (max-width:1100px) {
+	.img-container1{ 
+		padding-inline-start:min(2vh,6.5rem);
+	}
+	
+	.img-container2{
+		padding-inline-end:min(2vh,6.5rem);
+	}
+
+	.section-padding2{
+		/*padding-left:  6.375rem;
+		padding-right: 6.375rem;*/
+		padding-inline: min(2vh,6.375rem);
+	}
+  }
+
   @media (min-width: 40em) {
 	:root {
 	  --fs-600: 3rem;
