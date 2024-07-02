@@ -629,21 +629,37 @@ footer{
   }
 
   @media(max-width:1024px) {
-	.section-3-grid,
-	.section-4-grid
-	.section-5-grid,
-	.section-6-grid,
-	.section-7-grid
+	.section-3-grid
 	{
 		grid-template-areas:
 		"s3-item1"
-		"s3-item2"
+		"s3-item2";
+	}
+
+	.section-4-grid
+	{
+		grid-template-areas:
 		"s4-item1"
-		"s4-item2"
+		"s4-item2";
+	}
+
+	.section-5-grid
+	{
+		grid-template-areas:
 		"s5-item1"
-		"s5-item2"
+		"s5-item2";
+	}
+
+	.section-6-grid
+	{
+		grid-template-areas:
 		"s6-item1"
-		"s6-item2"
+		"s6-item2";
+	}
+
+	.section-7-grid
+	{
+		grid-template-areas:
 		"s7-item1"
 		"s7-item2";
 	}
