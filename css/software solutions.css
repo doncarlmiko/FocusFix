@@ -648,7 +648,7 @@ footer{
 	.section-c-item1 { grid-area: section-c-item1; }
     .section-c-item2 { grid-area: section-c-item2; }
 
-	.section-c-item1{
+	.section-c-item1,.section-c-item2{
 		grid-column: 1/-1;
 	}
 
