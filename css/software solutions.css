@@ -597,10 +597,10 @@ footer{
 		padding-inline-end:min(5vh,6.5rem);
 	}
 
-	.section-padding{
+	.section-padding2{
 		/*padding-left:  6.375rem;
 		padding-right: 6.375rem;*/
-		padding-inline: min(2vh,6.375rem);
+		padding-inline: min(5vh,6.375rem);
 	}
   }
 
