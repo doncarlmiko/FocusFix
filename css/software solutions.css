@@ -94,6 +94,12 @@ main{
 	border-radius: 5px;
 }
 
+.section-padding2{
+	/*padding-left:  6.375rem;
+	padding-right: 6.375rem;*/
+	padding-inline: min(10vh,6.375rem);
+}
+
 /*----------------------------------------------------------*/
 /*------------------------Section 1----------------------------------*/
 .main-heading{
