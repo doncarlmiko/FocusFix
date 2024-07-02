@@ -145,8 +145,7 @@ main{
 .section-4-grid,
 .section-5-grid,
 .section-6-grid,
-.section-7-grid,
-.section-8-grid
+.section-7-grid
 {
 	display: grid;
 	grid-template-columns:repeat(2,1fr);
@@ -160,6 +159,11 @@ main{
 	text-align: center;
 	padding-top: 6rem;
 	padding-bottom: 6rem;
+}
+
+.section-8-grid{
+	display: grid;
+	grid-template-rows:auto auto, 1fr;
 }
 
 .s8-item2{
