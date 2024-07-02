@@ -145,8 +145,8 @@ main{
 .section-4-grid,
 .section-5-grid,
 .section-6-grid,
-.section-7-grid,
-.section-conclusion-grid{
+.section-7-grid
+{
 	display: grid;
 	grid-template-columns:repeat(2,1fr);
 }
@@ -179,6 +179,11 @@ main{
 /*-----------------------------------------------------------------------*/
 
 /*----------------------------Section conclusion-------------------------------------*/
+.section-conclusion-grid{
+	display: grid;
+	grid-template-rows:auto auto, 1fr;
+}
+
 .s-conclusion-item1{
 	padding:0 2rem 0 0; 
 }
