@@ -71,6 +71,9 @@ main{
 
 /*--------------------------------------------------------------------------------*/
 /*------------------------Section layout----------------------------------*/
+.section-overflow{
+	overflow: hidden;
+}
 .grid-padding{
 	/*padding: 6rem 0 8rem 0;*/
 	padding-block: min(20vh,6rem);
