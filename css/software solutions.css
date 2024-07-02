@@ -719,19 +719,26 @@ footer{
 	.img-container1{
 		padding-inline-start:0;
 	}
-	
-
-
   }
 
 
 
 
 
-  @media (min-width: 40em) {
+  @media (max-width: 640px) {
 	:root {
 	  --fs-600: 3rem;
 	  --fs-400: 1.125rem;
+	}
+
+	.img-grid{
+		max-width: 100%;
+		height: min(10vh,6.5rem);
+	}
+
+	section{
+		max-width: fit-content;
+		
 	}
   }
 
