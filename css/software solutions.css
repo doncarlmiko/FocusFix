@@ -63,12 +63,8 @@ main{
 
 .container {
 	display: flex;
-	flex-wrap:nowrap;
-	flex-direction: column;
-	margin-top:7.9rem;
-	max-width: 100%;
-	width: 100%;
-}
+	flex-wrap: wrap;
+  }
 
 /*--------------------------------------------------------------------------------*/
 /*------------------------Section layout----------------------------------*/
