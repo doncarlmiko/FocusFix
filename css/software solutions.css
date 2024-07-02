@@ -189,7 +189,6 @@ main{
 /*-----------------------------------------------------------------------*/
 
 /*----------------------------Section conclusion-------------------------------------*/
-
 .section-c-item1{
 	padding:0 2rem 0 0; 
 }
@@ -641,11 +640,13 @@ footer{
 		grid-template-areas:
 		"section-c-item1"
 		"section-c-item2";
+		align-items: center;
+		
 	}
-
+ 
 	.section-c-item1 { grid-area: section-c-item1; }
     .section-c-item2 { grid-area: section-c-item2; }
-	
+
   }
 
 
