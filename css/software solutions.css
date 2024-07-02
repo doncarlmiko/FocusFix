@@ -627,6 +627,17 @@ footer{
 	}
   }
 
+  @media(max-width:806px) {
+	.section-3-grid{
+		grid-template-areas:
+		"s3-item1"
+		"s3-item2";
+	}
+
+	.s3-item1 { grid-area: s3-item1; }
+    .s3-item2 { grid-area: s3-item2; }
+  }
+
   @media (min-width: 40em) {
 	:root {
 	  --fs-600: 3rem;
