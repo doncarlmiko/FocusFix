@@ -46,7 +46,7 @@ main{
 
   --main-heading-font-size: clamp(1.875rem, 12vw + 1rem, 3.4375rem); /*55px*/
   --second-heading-font-size:clamp(1.125rem, 12vw + 1rem, 2.5rem); /*40px*/
-  --third-heading-font-size:clamp(1.25rem, 12vw + 1rem, 1.875rem;); /*30px*/
+  --third-heading-font-size:clamp(1.25rem, 12vw + 1rem, 1.875rem); /*30px*/
   
   /*--fs-xl: clamp(3.5rem, 12vw + 1rem, 12rem);*/
   --fs-600: 2rem;
