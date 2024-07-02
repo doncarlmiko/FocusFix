@@ -572,7 +572,7 @@ footer{
 
 /*--------------------------------------------------------------------------------*/
 /*------------------------Responsive media query----------------------------------*/
-@media (min-width:90.0625em) {
+@media (min-width:1441px) {
 	.img-container1{
 		padding-inline-start:max(20vh,6.5rem);
 	}
