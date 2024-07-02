@@ -600,7 +600,7 @@ footer{
 	.section-padding{
 		/*padding-left:  6.375rem;
 		padding-right: 6.375rem;*/
-		padding-inline: min(5vh,6.375rem);
+		padding-inline: min(2vh,6.375rem);
 	}
   }
 
