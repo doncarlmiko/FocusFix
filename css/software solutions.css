@@ -730,10 +730,14 @@ footer{
 	  --fs-600: 3rem;
 	  --fs-400: 1.125rem;
 	}
+	
+	.grid-padding{
+		padding-block: min(20vh,6rem);
+	}
 
 	.img-grid{
 		max-width: max(50vh,6.5rem);
-		max-height: min(50vh,6.5rem);
+		max-height: min(100vh,6.5rem);
 	}
 
 	section{
