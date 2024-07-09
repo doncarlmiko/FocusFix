@@ -736,7 +736,7 @@ footer{
 	}
 
 	.img-grid{
-		max-width: max(50vh,6.5rem);
+		max-width: max(100vh,6.5rem);
 		max-height: min(100vh,6.5rem);
 	}
 
