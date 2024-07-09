@@ -732,7 +732,7 @@ footer{
 	}
 	
 	.grid-padding{
-		padding-block: min(20vh,6rem);
+		padding-block: min(5vh,6rem);
 	}
 
 	.img-grid{
