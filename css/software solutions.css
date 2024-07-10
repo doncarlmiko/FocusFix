@@ -589,6 +589,12 @@ footer{
 /*--------------------------------------------------------------------------------*/
 /*------------------------Responsive media query----------------------------------*/
 @media (min-width:1441px) {
+	:root{
+		--main-heading-font-size: clamp(3.4375rem, 12vw + 1rem, 12rem);
+		--second-heading-font-size:clamp(2.5rem, 12vw + 1rem, 8rem); /*40px*/
+  		--third-heading-font-size:clamp(1.875rem, 12vw + 1rem, 6rem); /*30px*/
+	}
+
 	.img-container1{
 		padding-inline-start:max(20vh,6.5rem);
 	}
