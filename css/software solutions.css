@@ -725,8 +725,11 @@ footer{
 
   @media (max-width: 640px) {
 	:root {
-	  --fs-600: 3rem;
-	  --fs-400: 1.125rem;
+	  /*--fs-600: 3rem;
+	  --fs-400: 1.125rem;*/
+	  --main-heading-font-size: 1.25rem; /*55px*/
+  	  --second-heading-font-size:1.125rem; /*40px*/
+      --third-heading-font-size:1rem; /*30px*/
 	}
 	
 	.grid-padding{
