@@ -727,9 +727,9 @@ footer{
 	:root {
 	  /*--fs-600: 3rem;
 	  --fs-400: 1.125rem;*/
-	  --main-heading-font-size: 1.25rem; /*55px*/
-  	  --second-heading-font-size:1.125rem; /*40px*/
-      --third-heading-font-size:1rem; /*30px*/
+	  --main-heading-font-size: 2.8125rem; /*55px*/
+  	  --second-heading-font-size:1.875rem; /*40px*/
+      --third-heading-font-size:1.25rem; /*30px*/
 	}
 	
 	.grid-padding{
