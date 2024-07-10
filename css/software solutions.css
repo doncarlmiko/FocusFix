@@ -743,5 +743,11 @@ footer{
 		width: max(100vw,38.625rem);
 		height: min(60vh,28.125rem);
 	}
+
+	.section-padding2{
+		/*padding-left:  6.375rem;
+		padding-right: 6.375rem;*/
+		padding-inline: min(1vh,6.375rem);
+	}
   }
 
