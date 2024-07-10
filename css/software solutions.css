@@ -737,6 +737,11 @@ footer{
 		max-height: min(60vh,24.25rem);
 	}
 
+	.conclusion-img{
+		max-width: max(100vw,38.625rem);
+		max-height: min(60vh,28.125rem);
+	}
+
 	section{
 		max-width:100%;
 		width: 100vw;
