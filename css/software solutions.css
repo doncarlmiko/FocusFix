@@ -219,7 +219,7 @@ main{
 
 button:hover {
       background-color: var(--gradient-purple1);
-    }
+    }    
 
     button:active {
       background-color:var(--gradient-purple1);
@@ -722,9 +722,6 @@ footer{
   }
 
 
-
-
-
   @media (max-width: 640px) {
 	:root {
 	  --fs-600: 3rem;
@@ -736,7 +733,7 @@ footer{
 	}
 
 	.img-grid{
-		max-width: min(60vh,30.4375rem);
+		max-width: min(60vw,30.4375rem);
 		max-height: min(60vh,24.25rem);
 	}
 
