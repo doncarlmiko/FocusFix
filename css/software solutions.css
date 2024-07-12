@@ -737,6 +737,11 @@ footer{
       --third-heading-font-size:1.25rem; /*30px*/
 	}
 
+	.grid-padding{
+		/*padding: 6rem 0 8rem 0;*/
+		padding-block: min(60vh,6rem);
+	}
+
 	.main-heading{
 		margin:0;
 		padding-block: min(5vh,4rem);
