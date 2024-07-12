@@ -739,11 +739,17 @@ footer{
 
 	.main-heading{
 		margin:0;
-		padding-block-end: min(5vh,2rem);
+		padding-block-start: min(20vh,4rem);
+		padding-block-end: min(5vh,4rem);
 	}
 
 	.section2-margin{
-		margin-block-start: min(20vh,4rem);
+		margin:0;
+	}
+
+	.section-2 > h2{
+		margin: 0;
+		padding-block-end: min(20vh,1rem);
 	}
 	
 	.grid-padding{
