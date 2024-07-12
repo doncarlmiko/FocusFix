@@ -724,6 +724,7 @@ footer{
   }
 
 
+  /*tablet devices*/
   @media (max-width: 640px) {
 	:root {
 	  /*--fs-600: 3rem;
@@ -731,6 +732,11 @@ footer{
 	  --main-heading-font-size: clamp(2.1875rem, 12vw + 1rem, 2.5rem); /*55px*/
   	  --second-heading-font-size:1.875rem; /*40px*/
       --third-heading-font-size:1.25rem; /*30px*/
+	}
+
+	.main-heading{
+		margin:0;
+		padding-block-end: min(20vh,5rem);
 	}
 	
 	.grid-padding{
@@ -770,6 +776,8 @@ footer{
 	}
   }
 
+
+/*mobile devices*/
   @media (max-width: 446px) {
 	.container {
 		margin-top: 0;
