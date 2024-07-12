@@ -740,11 +740,11 @@ footer{
 	}
 
 	.section2-margin{
-		margin-block-start: auto;
+		margin-block-start: min(20vh,4rem);
 	}
 	
 	.grid-padding{
-		padding-block: min(5vh,6rem);
+		padding-block: min(20vh,5rem);
 	}
 
 	.img-grid{
