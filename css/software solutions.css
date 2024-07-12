@@ -736,7 +736,7 @@ footer{
 
 	.main-heading{
 		margin:0;
-		padding-block-end: min(20vh,5rem);
+		padding-block-end: min(5vh,5rem);
 	}
 
 	.section2-margin{
