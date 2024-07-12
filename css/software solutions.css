@@ -740,7 +740,7 @@ footer{
 	}
 
 	.section2-margin{
-		margin-block-start: min(20vh,4rem);
+		margin-block-start: min(10vh,4rem);
 	}
 	
 	.grid-padding{
