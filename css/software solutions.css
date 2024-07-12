@@ -773,7 +773,7 @@ footer{
   @media (max-width: 446px) {
 	.container {
 		margin-top: 0;
-		padding-block-start: min(15vw,7rem);
+		padding-block-start: min(20vw,7rem);
 		/*width: 100%;*/
 	}
 
