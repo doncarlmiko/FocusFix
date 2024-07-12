@@ -738,6 +738,10 @@ footer{
 		margin:0;
 		padding-block-end: min(20vh,5rem);
 	}
+
+	.section2-margin{
+		margin-block-start: auto;
+	}
 	
 	.grid-padding{
 		padding-block: min(5vh,6rem);
