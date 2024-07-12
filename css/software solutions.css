@@ -739,8 +739,7 @@ footer{
 
 	.main-heading{
 		margin:0;
-		padding-block-start: min(20vh,4rem);
-		padding-block-end: min(5vh,4rem);
+		padding-block: min(5vh,4rem);
 	}
 
 	.heading{
