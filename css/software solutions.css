@@ -809,5 +809,9 @@ footer{
 		height: min(60vw,13.625rem);
 	
 	}
+
+	.section-8{
+		padding:0;
+	}
   }
 
