@@ -450,7 +450,7 @@ button:hover {
 	}
 
 	.section-8{
-		padding:0;
+		padding-block: min(5vh,4rem);
 	}
   }
 
