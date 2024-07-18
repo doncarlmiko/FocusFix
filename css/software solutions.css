@@ -226,6 +226,26 @@ button:hover {
       background-color:var(--gradient-purple1);
     }
 
+
+
+/*--------------------------------------------------------------------------------*/
+/*------------------------Responsive media query----------------------------------*/
+
+.section-9{
+		color: white;
+	}
+	
+	.logo-container > img{
+		width: min(100vw,4.875rem);
+		height: min(60vw,4.625rem);
+		border-radius: 100%;
+	}
+
+	.logo-container > h1{
+		display: none;
+	}
+
+
 /*--------------------------------------------------------------------------------*/
 /*------------------------Responsive media query----------------------------------*/
 
@@ -456,20 +476,3 @@ button:hover {
 
   /*------Responsive footer query ---------------*/
 
-@media (min-width: 320px) {
-	.section-9{
-		color: white;
-	}
-	
-	.logo-container > img{
-		width: min(100vw,4.875rem);
-		height: min(60vw,4.625rem);
-		border-radius: 100%;
-	}
-
-	.logo-container > h1{
-		display: none;
-	}
-
-
-  }
