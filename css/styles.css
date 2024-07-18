@@ -10,6 +10,10 @@
 	height: 45rem;
 }
 
+.footer-bg{
+	background: linear-gradient(90deg,var(--gradient-purple2)16%,var(--gradient-purple1));
+}
+
 .button-red{
 	width: 8.8125rem;
 	height: 2.8125rem;
