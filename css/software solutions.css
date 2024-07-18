@@ -236,7 +236,7 @@ button:hover {
 	}
 	
 	.logo-container > img{
-		width: max(50vw,4.875rem);
+		width: min(10vw,4.875rem);
 		height: min(60vw,4.625rem);
 		border-radius: 100%;
 	}
@@ -246,12 +246,12 @@ button:hover {
 	}
 
 	.contact-us > img{
-		width: max(50vw,1.5rem);
+		width: max(10vw,1.5rem);
 		height: min(60vw,1.375rem);
 	}
 
 .footer-item2 > img{
-	width: max(50vw,3rem);
+	width: min(10vw,3rem);
 	height: min(60vw,3.0625rem);
 }
 
