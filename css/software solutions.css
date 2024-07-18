@@ -236,13 +236,18 @@ button:hover {
 	}
 	
 	.logo-container > img{
-		width: min(100vw,4.875rem);
+		width: max(100vw,4.875rem);
 		height: min(60vw,4.625rem);
 		border-radius: 100%;
 	}
 
 	.logo-container > h1{
 		display: none;
+	}
+
+	.contact-us > img{
+		width: max(100vw,1.5rem);
+		height: min(60vw,1.375rem);
 	}
 
 
