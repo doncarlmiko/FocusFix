@@ -457,7 +457,7 @@ button:hover {
   /*------Responsive footer query ---------------*/
 
 @media (min-width: 320px) {
-	.logo-container{
+	.logo-container > img{
 		width: min(100vw,4.875rem);
 		height: min(60vw,4.625rem);
 	}
