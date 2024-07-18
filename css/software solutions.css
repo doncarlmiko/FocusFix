@@ -461,4 +461,10 @@ button:hover {
 		width: min(100vw,4.875rem);
 		height: min(60vw,4.625rem);
 	}
+
+	.logo-container > h1{
+		display: none;
+	}
+
+
   }
