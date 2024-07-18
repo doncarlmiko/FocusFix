@@ -460,6 +460,7 @@ button:hover {
 	.logo-container > img{
 		width: min(100vw,4.875rem);
 		height: min(60vw,4.625rem);
+		border-radius: 100%;
 	}
 
 	.logo-container > h1{
