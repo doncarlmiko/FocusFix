@@ -233,7 +233,7 @@ button:hover {
 
 .section-9{
 		color: white;
-		padding-block: max(10vh,4rem);
+		padding-block: min(10vh,4rem);
 	}
 	
 	.logo-container > img{
