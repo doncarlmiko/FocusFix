@@ -235,6 +235,13 @@ button:hover {
 		color: white;
 		padding-block: min(5vh,4rem);
 	}
+
+	.flex-container{
+		display: flex;
+		flex-wrap: wrap;
+		gap: min(20vh,4rem);;
+		
+	}
 	
 	.logo-container > img{
 		max-width: 100%;
