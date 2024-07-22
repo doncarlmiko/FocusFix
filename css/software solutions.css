@@ -239,7 +239,8 @@ button:hover {
 	.flex-container{
 		display: flex;
 		flex-wrap: wrap;
-		gap: min(10vh,4rem);
+		flex-direction: row;
+		gap: min(5vh,4rem);
 		
 	}
 	
