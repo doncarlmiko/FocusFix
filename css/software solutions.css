@@ -503,6 +503,17 @@ button:hover {
   }
 
   /*------Responsive footer query ---------------*/
+  @media(max-width:768px){
+	
+	.link-white{
+		color: white;
+	}
+
+	.link-white:hover{
+		text-decoration: underline;
+	}
+
+}
 
 @media(min-width:640px){
 	.flex-container{
@@ -511,16 +522,4 @@ button:hover {
 		gap: min(5vh,4rem);
 		
 	}
-}
-
-@media(min-width:320px){
-	
-	.link-white{
-		color: white;
-	}
-	
-	.link-white:hover{
-		text-decoration: underline;
-	}
-
 }
