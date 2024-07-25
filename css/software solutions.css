@@ -499,7 +499,7 @@ button:hover {
   }
 
   /*------Responsive footer query ---------------*/
-  @media (max-width:991px){
+  @media (min-width:991px){
 	.link-white{
 		color: white;
 		text-decoration: none;
@@ -510,7 +510,7 @@ button:hover {
 	
   }
 
-  @media(max-width:768px){
+  @media(min-width:768px){
 	.link-white{
 		text-decoration: underline;
 	}
