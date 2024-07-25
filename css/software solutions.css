@@ -504,7 +504,7 @@ button:hover {
 
   /*------Responsive footer query ---------------*/
 
-@media(min-width:768px){
+@media(min-width:640px){
 	.flex-container{
 		display: flex;
 		flex-direction:row;
