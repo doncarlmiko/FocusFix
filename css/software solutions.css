@@ -506,7 +506,7 @@ button:hover {
   @media(max-width:768px){
 	
 	.link-white{
-		color: white;
+		text-decoration: underline;
 	}
 
 }
