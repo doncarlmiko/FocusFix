@@ -509,10 +509,6 @@ button:hover {
 		color: white;
 	}
 
-	.link-white:hover{
-		text-decoration: underline;
-	}
-
 }
 
 @media(min-width:640px){
