@@ -261,7 +261,7 @@ button:hover {
 		width: min(20vw,1.5rem);
 		height: min(20vw,1.375rem);
 	}
-	
+
 .footer-item1 > a{
 	color:white;
 }
@@ -511,4 +511,16 @@ button:hover {
 		gap: min(5vh,4rem);
 		
 	}
+}
+
+@media(min-width:320px){
+	
+	.link-white{
+		color: white;
+		text-decoration: none;
+	}
+	.link-white:hover{
+		text-decoration: underline;
+	}
+
 }
