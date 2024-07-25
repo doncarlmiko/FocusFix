@@ -44,14 +44,6 @@ button:hover {
 	box-shadow: 0 2px 4px lightgray;
 }*/
 
-.link-white{
-	color: white;
-	text-decoration: none;
-}
-.link-white:hover{
-	text-decoration: underline;
-}
-
 .section-padding{
 	/*padding-left:  6.375rem;
 	padding-right: 6.375rem;*/
