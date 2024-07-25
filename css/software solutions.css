@@ -517,8 +517,8 @@ button:hover {
 	
 	.link-white{
 		color: white;
-		text-decoration: none;
 	}
+	
 	.link-white:hover{
 		text-decoration: underline;
 	}
