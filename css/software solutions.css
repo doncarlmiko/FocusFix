@@ -504,7 +504,7 @@ button:hover {
   }
 
   /*------Responsive footer query ---------------*/
-  @media (min-width:800px){
+  @media (min-width:900px){
 	.link-white{
 		color: white;
 		text-decoration: none;
