@@ -500,3 +500,11 @@ button:hover {
 
   /*------Responsive footer query ---------------*/
 
+@media(min-width:768px){
+	.flex-container{
+		display: flex;
+		flex-direction:row;
+		gap: min(5vh,4rem);
+		
+	}
+}
