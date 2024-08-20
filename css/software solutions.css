@@ -523,7 +523,11 @@ button:hover {
 		
 	}
 
-	.section-padding2 {
+	.logo-container > h1{
+		display: inline;
+	}
+
+	.logo-container, .flex-container{
 		padding-inline: max(5vh,6.375rem);
 	}
 }
