@@ -523,15 +523,15 @@ button:hover {
 	.logo-container{
 		display: flex;
 		flex-direction: row;
-		gap: max(5vh,4rem);
-		padding-inline: max(2vh,6.375rem);
+		gap: min(2vh,4rem);
+		padding-inline: max(10vh,6.375rem);
 	}
 
 	.flex-container{
 		display: flex;
 		flex-direction:row;
 		gap: min(2vh,4rem);
-		padding-inline: max(2vh, 4rem);
+		padding-inline: max(10vh, 4rem);
 		
 	}
 }
