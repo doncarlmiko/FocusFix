@@ -522,4 +522,8 @@ button:hover {
 		gap: min(5vh,4rem);
 		
 	}
+
+	.section-padding2 {
+		padding-inline: min(5vh,6.375rem);
+	}
 }
