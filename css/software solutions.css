@@ -531,7 +531,7 @@ button:hover {
 		display: flex;
 		flex-direction:row;
 		gap: min(2vh,4rem);
-		padding-inline: max(10vh, 4rem);
+		padding-inline: min(2vh, 4rem);
 		
 	}
 }
