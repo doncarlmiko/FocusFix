@@ -520,6 +520,7 @@ button:hover {
 		display: flex;
 		flex-direction:row;
 		gap: min(5vh,4rem);
+		padding-inline: max;
 		
 	}
 
@@ -530,10 +531,8 @@ button:hover {
 	.logo-container{
 		display: flex;
 		flex-direction: row;
-		gap: min(2vh,4rem);
+		gap: max(5vh,4rem);
+		padding-inline: max(2vh,6.375rem);
 	}
 
-	.logo-container, .flex-container{
-		padding-inline: max(5vh,6.375rem);
-	}
 }
