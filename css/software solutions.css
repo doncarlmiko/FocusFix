@@ -540,8 +540,9 @@ button:hover {
 		flex-direction: column;
 	}
 
-	.contact-1,.contact-2{
-		display:inline-block;
+	.contact-1{
+		display: flex;
+		flex-direction: row;
 	}
 }
 
