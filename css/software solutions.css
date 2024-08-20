@@ -524,6 +524,6 @@ button:hover {
 	}
 
 	.section-padding2 {
-		padding-inline: min(5vh,6.375rem);
+		padding-inline: max(5vh,6.375rem);
 	}
 }
