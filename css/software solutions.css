@@ -530,7 +530,7 @@ button:hover {
 	.flex-container{
 		display: flex;
 		flex-direction:row;
-		gap: max(5vh,4rem);
+		gap: min(2vh,4rem);
 		padding-inline: max(2vh, 4rem);
 		
 	}
