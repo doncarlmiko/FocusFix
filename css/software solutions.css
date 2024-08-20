@@ -534,5 +534,10 @@ button:hover {
 		padding-inline: min(2vh, 4rem);
 		
 	}
+
+	.contact-us{
+		display: flex;
+		flex-direction: row;
+	}
 }
 
