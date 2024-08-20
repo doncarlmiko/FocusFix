@@ -535,9 +535,10 @@ button:hover {
 		
 	}
 
-	.contact-us{
+	.contact-1,.contact-2{
 		display: flex;
 		flex-direction: row;
+		flex-wrap: wrap;
 	}
 }
 
