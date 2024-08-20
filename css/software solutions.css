@@ -260,7 +260,7 @@ button:hover {
 		text-decoration: underline;
 	}
 
-	.contact-us > img{
+	.contact-1 > img, .contact-2 > img{
 		max-width: 100%;
 		max-height: 100%;
 		width: min(20vw,1.5rem);
