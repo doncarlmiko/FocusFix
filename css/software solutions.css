@@ -516,14 +516,6 @@ button:hover {
   }
 
 @media(min-width:640px){
-	.flex-container{
-		display: flex;
-		flex-direction:row;
-		gap: min(5vh,4rem);
-		padding-inline: max;
-		
-	}
-
 	.logo-container > h1{
 		display: inline;
 	}
@@ -535,4 +527,11 @@ button:hover {
 		padding-inline: max(2vh,6.375rem);
 	}
 
+	.flex-container{
+		display: flex;
+		flex-direction:row;
+		gap: max(5vh,4rem);
+		padding-inline: max(2vh, 4rem);
+		
+	}
 }
