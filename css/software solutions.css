@@ -527,6 +527,12 @@ button:hover {
 		display: inline;
 	}
 
+	.logo-container{
+		display: flex;
+		flex-direction: row;
+		gap: min(2vh,4rem);
+	}
+
 	.logo-container, .flex-container{
 		padding-inline: max(5vh,6.375rem);
 	}
