@@ -544,5 +544,9 @@ button:hover {
 		display: flex;
 		flex-direction: row;
 	}
+
+	.contact-1 > img, .contact-2 > .img{
+		-ms-flex-align: center;
+	}
 }
 
