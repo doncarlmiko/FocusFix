@@ -546,7 +546,7 @@ button:hover {
 	}
 
 	.contact-1 > img, .contact-2 > .img{
-		-ms-flex-align: center;
+		padding-block: 1rem;
 	}
 }
 
