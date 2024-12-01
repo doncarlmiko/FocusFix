@@ -336,7 +336,7 @@ button:hover {
 		align-items: center;
 		text-align: center;
 		
-	}
+	}    
 
 	.section-c-item1 { grid-area: section-c-item1; }
     .section-c-item2 { grid-area: section-c-item2; }
